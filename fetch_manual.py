@@ -1,7 +1,3 @@
-# import urllib
-#
-# urllib.urlretrieve('http://us1.php.net/get/php_manual_en.tar.gz/from/this/mirror')
-
 import os
 import tarfile
 import urllib.request
